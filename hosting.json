@@ -1,0 +1,4 @@
+﻿{
+  "environment": "Development",
+  "server.urls": "http://localhost:5000"
+}
