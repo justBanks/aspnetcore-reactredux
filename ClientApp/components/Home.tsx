@@ -12,7 +12,7 @@ export default class Home extends React.Component<{}, {}> {
                 <li><a href='https://webpack.github.io/'>Webpack</a> for building and bundling client-side resources</li>
                 <li><a href='http://getbootstrap.com/'>Bootstrap</a> for layout and styling</li>
             </ul>
-            <p>Automated deployment workflow to the <a href='http://azure.microsoft.com/'>Azure</a> platform via <a href='https://github.com/justBanks/aspnetcore-reactredux#aspnetcore-reactredux'>Github</a> and <a href='https://www.visualstudio.com/team-services/'>Visual Studio Team Services</a></p>
+            <p>Automated deployment workflow to the <a href='http://azure.microsoft.com/'>Azure</a> platform via <a href='https://github.com/justBanks/aspnetcore-reactredux'>Github</a> and <a href='https://www.visualstudio.com/team-services/'>Visual Studio Team Services</a></p>
             <p>Other development features:</p>
             <ul>
                 <li><strong>Client-side navigation</strong>. For example, click <em>Counter</em> then <em>Back</em> to return here.</li>
