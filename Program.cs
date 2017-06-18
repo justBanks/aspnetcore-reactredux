@@ -10,6 +10,7 @@ namespace aspnetcore_reactredux
 {
     public class Program
     {
+        //setx ASPNETCORE_ENVIRONMENT "Development"
         public static void Main(string[] args)
         {
             var host = new WebHostBuilder()

@@ -3,8 +3,8 @@ import * as React from 'react';
 export default class Home extends React.Component<{}, {}> {
     public render() {
         return <div>
-            <h1>ASP.NET Core and Continuous Deployment to Azure</h1>
-            <p>An ASP.NET Core single-page application built with:</p>
+            <h2>ASP.NET Core and Continuous Deployment to Azure</h2>
+            <p>This is an ASP.NET Core single-page application built with:</p>
             <ul>
                 <li><a href='https://get.asp.net/'>ASP.NET Core</a> and <a href='https://msdn.microsoft.com/en-us/library/67ef8sbd.aspx'>C#</a> for cross-platform server-side code</li>
                 <li><a href='https://blogs.msdn.microsoft.com/webdev/2017/02/14/building-single-page-applications-on-asp-net-core-with-javascriptservices#post-9176'>JavaScriptServices</a> - templates to scaffold a web application, fronting with your favorite SPA framework</li>
