@@ -1,4 +1,3 @@
 ﻿{
-  "environment": "Prod",
-  "server.urls": "http://localhost:6012"
+  "environment": "Development"
 }
