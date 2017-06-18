@@ -3,8 +3,8 @@ import * as React from 'react';
 export default class Home extends React.Component<{}, {}> {
     public render() {
         return <div>
-            <h1>Continuous Deployment to Azure</h1>
-            <p>An ASP.NET Core single-page application (React-Redux), built with:</p>
+            <h1>ASP.NET Core and Continuous Deployment to Azure</h1>
+            <p>An ASP.NET Core single-page application built with:</p>
             <ul>
                 <li><a href='https://get.asp.net/'>ASP.NET Core</a> and <a href='https://msdn.microsoft.com/en-us/library/67ef8sbd.aspx'>C#</a> for cross-platform server-side code</li>
                 <li><a href='https://blogs.msdn.microsoft.com/webdev/2017/02/14/building-single-page-applications-on-asp-net-core-with-javascriptservices#post-9176'>JavaScriptServices</a> - templates to scaffold a web application, fronting with your favorite SPA framework</li>
@@ -12,7 +12,7 @@ export default class Home extends React.Component<{}, {}> {
                 <li><a href='https://webpack.github.io/'>Webpack</a> for building and bundling client-side resources</li>
                 <li><a href='http://getbootstrap.com/'>Bootstrap</a> for layout and styling</li>
             </ul>
-            <p>An automated deployment workflow to the <a href='http://azure.microsoft.com/'>Azure</a> platform is implemented via <a href='https://www.visualstudio.com/team-services/'>Visual Studio Team Services</a></p>
+            <p>Automated deployment workflow to the <a href='http://azure.microsoft.com/'>Azure</a> platform via <a href='https://github.com/justBanks/aspnetcore-reactredux#aspnetcore-reactredux'>Github</a> and <a href='https://www.visualstudio.com/team-services/'>Visual Studio Team Services</a></p>
             <p>Other development features:</p>
             <ul>
                 <li><strong>Client-side navigation</strong>. For example, click <em>Counter</em> then <em>Back</em> to return here.</li>
